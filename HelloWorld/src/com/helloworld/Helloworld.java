@@ -8,7 +8,7 @@ package com.helloworld;
 
 	public class Helloworld {
 		  public static void main(String[] args) {
-		    int スコア = 40;   //(1)
+		    int スコア = 90;   //(1)
 		    char グレード;
 
 		    if (スコア >= 90) {   //(2)
